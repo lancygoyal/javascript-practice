@@ -1,3 +1,7 @@
-# javascript-practice
+# Javascript Practice
 
-JS Functions, Array, Objects, Promise
+Functions
+Array
+Objects
+Promise
+Class
